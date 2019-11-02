@@ -1,10 +1,10 @@
-package br.com.commida;
+package br.com.placetoeat;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CommidaApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {

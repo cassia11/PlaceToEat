@@ -1,4 +1,4 @@
-package br.com.commida.api.v1.model;
+package br.com.placetoeat.api.v1.model;
 
 public enum TypeUser {
     FACILITADOR("Facilitador"),
